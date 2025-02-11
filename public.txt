@@ -1,2 +1,3 @@
 1.repository생성 및 .gitignore에 private.txt적용,add commit push
 2.충돌유발 해결o
+3. branch 계획  main - dev > feature1, feature2
