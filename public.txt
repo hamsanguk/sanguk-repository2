@@ -1,1 +1,2 @@
 1.repository생성 및 .gitignore에 private.txt적용,add commit push
+2. 충돌유발문구ㅇㄿㅇ
